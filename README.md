@@ -1,4 +1,4 @@
-h1# 💫 About Me:
+# 💫 About Me:
  # Hi, I'm Ganesh 👋<br><br>💻 Aspiring Software Developer<br><br>🚀 Passionate about Web Development and Problem Solving<br><br>🌱 Currently Learning:<br><br>* Data Structures &   Algorithms<br>* Java<br>* HTML, CSS, JavaScript<br>* React.js<br>* Git & GitHub<br><br>🎯 Goal:<br>To become a skilled Software Developer and build impactful software solutions.<br><br>📫 Connect with me:<br><br>* LinkedIn: [https://www.linkedin.com/in/ganesh-t-380b973a8/]<br>* LeetCode: [https://leetcode.com/u/Ganesh0424/]<br>
 
 
