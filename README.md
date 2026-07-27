@@ -1,120 +1,121 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 
-<h3 align="center">
-Aspiring Full Stack Software Developer from India 🇮🇳
-</h3>
+<h3 align="center">💻 Aspiring Frontend Developer | 🌱 Learning Full Stack Development</h3>
 
 <p align="center">
-Passionate about building modern web applications, solving programming problems, and continuously improving my development skills.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React.js+Learner;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GaneshT24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 BBA Graduate
+🎓 **BBA Graduate**
 
-💻 Aspiring Full Stack Software Developer
+💻 Passionate about Web Development and Problem Solving
 
-🌱 Currently learning
+🌱 Currently learning **Java, Data Structures & Algorithms**
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Java
-- Data Structures & Algorithms
-- Git & GitHub
+⚛️ Building responsive websites with **HTML, CSS, JavaScript & React**
 
-🎯 Goal
+🎯 Goal: Become a Full Stack Software Developer
 
-Become a skilled Software Engineer and contribute to impactful software projects while continuously learning new technologies.
-
-⚡ Fun Fact
-
-I enjoy solving coding challenges and building responsive websites.
+📍 India 🇮🇳
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+| Category | Skills |
+|----------|--------|
+| 💻 Languages | HTML5 • CSS3 • JavaScript • Java |
+| ⚛️ Frameworks | React.js • Angular |
+| 🎨 CSS Framework | Bootstrap |
+| 🛠️ Tools | Git • GitHub • VS Code |
+| 📚 Currently Learning | Java • DSA • React.js |
 
 ---
 
-### Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📚 Currently Learning
-
-- Data Structures & Algorithms
-- React.js
-- Java
-- Full Stack Web Development
-- REST APIs
-
----
-
-# 📈 GitHub Stats
+# 🛠️ Languages & Tools
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshT24&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshT24&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,java,git,github,vscode" />
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🌱 What I'm Learning
+
+- 📚 HTML5 & CSS3
+- ⚡ JavaScript (ES6+)
+- ⚛️ React.js
+- ☕ Java Programming
+- 🧠 Data Structures & Algorithms
+- 🔧 Git & GitHub
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshT24&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshT24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshT24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshT24&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
 
 ✅ Master HTML, CSS & JavaScript
 
+✅ Build Responsive Websites
+
 ✅ Learn React.js
 
-✅ Improve DSA Problem Solving
+✅ Improve Java Programming
 
-✅ Build 10+ Full Stack Projects
+✅ Practice Data Structures & Algorithms
 
-✅ Get a Software Developer Internship
+✅ Build Real-World Projects
 
 ---
 
-# 🤝 Connect with Me
+# 📂 Featured Projects
 
-<p align="left">
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio Website | Personal portfolio using HTML & CSS |
+| ✅ To-Do App | JavaScript task management application |
+| 🌦️ Weather App | Weather application using API |
+| 🛒 E-Commerce UI | Responsive shopping website |
+| 📱 React Projects | Beginner React applications |
+
+> 🚧 More exciting projects coming soon...
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ganesh-t-380b973a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -124,12 +125,18 @@ I enjoy solving coding challenges and building responsive websites.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://github.com/GaneshT24" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### 💡 "Every expert was once a beginner. Keep Learning, Keep Building." 🚀
 
-</p>
+⭐ **Thanks for visiting my GitHub Profile!**
+
+</div>
